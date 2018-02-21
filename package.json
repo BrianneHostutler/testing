@@ -10,7 +10,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "testcafe \"browserstack:Chrome@53.0:Windows 10\" looknorthinc.js"
   },
   "author": "",
   "license": "ISC"
