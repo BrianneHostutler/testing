@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aps.js",
+  "dependencies": {
+    "testcafe": "^0.18.6",
+    "testcafe-browser-provider-browserstack": "^1.2.0",
+    "testcafe-reporter-slack": "0.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
